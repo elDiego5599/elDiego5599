@@ -30,11 +30,3 @@ GitHub Actions, Fly.io, ngrok tunnels with failover, launchd services, log rotat
 
 **Security**
 Input validation at the edge, AES-256 encryption, SHA-256 chain of custody, CORS and origin checks
-
-## Selected projects
-
-- [Ya Viene](https://github.com/elDiego5599/YaViene): live bus tracking for Barranquilla, with a [real-time backend](https://github.com/elDiego5599/YaVieneBackend) and a [website](https://github.com/elDiego5599/YaVieneWeb).
-- [Vanta](https://github.com/elDiego5599/Vanta): offline forensic audio and video analysis.
-- [ParallelAgent](https://github.com/elDiego5599/ParallelAgent): local multi-LLM deliberation for coding tasks.
-- [alongroute](https://github.com/elDiego5599/alongroute): GPS fixes snapped to a route, with distance measured along it.
-- [IDETHeventos](https://github.com/elDiego5599/IDETHeventos): school events portal with Flask and PostgreSQL.
