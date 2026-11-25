@@ -1,32 +1,39 @@
 # Diego Angarita
 
-Systems and Computing Engineer from Barranquilla, Colombia. I work across the stack, from embedded data streams and backends to mobile, desktop and web apps, with a focus on data and applied AI.
+Systems and Computing Engineer from Universidad del Norte (Barranquilla, Colombia).
+I build data pipelines and backend systems that collect data reliably, enforce
+quality checks, and turn raw streams into operational metrics and applied AI.
 
-## What I work with
+## Data & Applied AI
+
+**Pipelines**
+Batch and real-time ingestion, hourly and daily consolidation, retention,
+deduplication, data quality checks, auditable fetch logs
+
+**Storage & Formats**
+PostgreSQL, SQLite, Parquet, SQL
+
+**Analysis & Metrics**
+KPIs and percentiles (p50/p90), reliability and service metrics, CSV exports
+for analysts
+
+**Applied AI**
+PyTorch and torchvision (transfer learning, threshold calibration), local
+speech-to-text with Whisper, multi-agent LLM systems
+
+## Engineering Around the Data
 
 **Languages**
-TypeScript, JavaScript, Dart, Python, Rust, SQL
+Python, SQL, TypeScript, Rust, Dart
 
-**Backend and real-time**
-Node.js, Flask, REST APIs, WebSockets, MQTT, JWT and cookie sessions, bcrypt
+**Backend & Real-Time**
+Node.js, Flask, REST APIs, WebSockets, MQTT
 
-**Data**
-SQLite, PostgreSQL, data pipelines (ingestion, retention, daily consolidation, quality checks), KPIs and percentiles, CSV exports for analysts
+**Apps & Interfaces**
+React, Flutter (iOS, Android, macOS, Windows)
 
-**AI and machine learning**
-PyTorch and torchvision (transfer learning, threshold calibration, video over RTSP), local speech-to-text with Whisper, multi-agent LLM systems
+**Quality & Operations**
+Docker, pytest, Vitest, Playwright, mutation testing, coverage gates,
+GitHub Actions, scheduled services, backups, secret scanning
 
-**Mobile and desktop**
-Flutter (iOS, Android, macOS, Windows), Riverpod, MapLibre, iOS Live Activities with SwiftUI, Tauri v2
-
-**Web**
-React, Vite, Tailwind CSS, GSAP, responsive and accessible UI
-
-**Testing and quality**
-Vitest, Playwright, Flutter tests and goldens, Node test runner, pytest, mutation testing, coverage gates
-
-**DevOps and infrastructure**
-GitHub Actions, Fly.io, ngrok tunnels with failover, launchd services, log rotation, backups, secret scanning with gitleaks
-
-**Security**
-Input validation at the edge, AES-256 encryption, SHA-256 chain of custody, CORS and origin checks
+[LinkedIn](https://www.linkedin.com/in/diego-angarita-41a164389/)
